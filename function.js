@@ -1,0 +1,3 @@
+function myproject() {
+    alert("white");
+}
