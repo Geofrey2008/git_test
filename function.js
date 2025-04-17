@@ -1,3 +1,3 @@
 function myproject() {
-    alert("white");
+    alert("powj");
 }
